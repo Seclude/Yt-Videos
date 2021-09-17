@@ -47,4 +47,4 @@ async def whois(ctx,user:discord.Member=None):
 
 
 
-client.run("Nzk3NDY2MTc4MzA0OTk5NDM0.X_m4QQ.-ryPjh3dMpaf2Sjizn5n9QSdemM")
+client.run("your token here")
